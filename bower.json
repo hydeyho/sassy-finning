@@ -1,0 +1,15 @@
+{
+  "name": "sassy-finning",
+  "homepage": "https://github.com/hydeyho/sassy-finning",
+  "description": "",
+  "main": "sassy-finning.css",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
